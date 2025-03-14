@@ -7,7 +7,7 @@ import Events from "./components/Events.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    {/* <App /> */}
+    <App />
     <Events />
     {/* <TodoApp/> */}
   </StrictMode>
